@@ -1,1 +1,0 @@
-http://localhost:8158/Simulador_Rigel.html# expediente-rigel
